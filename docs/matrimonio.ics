@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nicola e Martina//Matrimonio 2026//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:matrimonio-nicola-martina-2026@nicolamartina2026
+DTSTAMP:20260101T000000Z
+DTSTART:20260919T143000Z
+DTEND:20260919T213000Z
+SUMMARY:Matrimonio di Nicola & Martina
+DESCRIPTION:Cerimonia ore 16:30 al Castello di Serravalle (Serravalle Pistoiese, PT).\nAperitivo a bordo piscina dalle 18:00 e cena dalle 20:30 all'Agriturismo Il Pianaccio (Montale, PT).\nVi aspettiamo!
+LOCATION:Castello di Serravalle, Via Gabella, Serravalle Pistoiese (PT), Toscana
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Domani il matrimonio di Nicola & Martina!
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
